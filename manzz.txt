@@ -660,7 +660,7 @@ end
 -- ELEGANT MENU / UI (COMPACT & BORDERLESS)
 -- ==========================================
 local Gui = Instance.new("ScreenGui")
-Gui.Name = "LuzorHub"
+Gui.Name = "DARK HUB FREE"
 Gui.ResetOnSpawn = false
 Gui.DisplayOrder = 99999 
 Gui.Parent = UI_Target
